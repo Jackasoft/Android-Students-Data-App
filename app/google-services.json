@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "514728638303",
+    "firebase_url": "https://kimathi-student-default-rtdb.firebaseio.com",
+    "project_id": "kimathi-student",
+    "storage_bucket": "kimathi-student.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514728638303:android:bcc7b5fe25f5302046a8ea",
+        "android_client_info": {
+          "package_name": "com.example.studentdetails"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514728638303-95dh8o87i6ab0lj8nho88l0jc3sdj386.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-SALciSboXfA7oEhDsKsC0h51lGrbDsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514728638303-95dh8o87i6ab0lj8nho88l0jc3sdj386.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514728638303:android:b642b72f663235b946a8ea",
+        "android_client_info": {
+          "package_name": "dev.ndauwa.app_tab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514728638303-95dh8o87i6ab0lj8nho88l0jc3sdj386.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-SALciSboXfA7oEhDsKsC0h51lGrbDsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514728638303-95dh8o87i6ab0lj8nho88l0jc3sdj386.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514728638303:android:0ef2feffa5847d0a46a8ea",
+        "android_client_info": {
+          "package_name": "dev.students.app_tab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514728638303-95dh8o87i6ab0lj8nho88l0jc3sdj386.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-SALciSboXfA7oEhDsKsC0h51lGrbDsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514728638303-95dh8o87i6ab0lj8nho88l0jc3sdj386.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
